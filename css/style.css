@@ -939,12 +939,14 @@ img {
     transition: all 0.3s ease-in-out;
     -moz-transition: all 0.3s ease-in-out;
     -webkit-transition: all 0.3s ease-in-out;
+    
 }
 
 .res-nav_click:hover,
 .res-nav_click:active,
 .res-nav_click:focus {
     color: #7cc576 !important;
+    
 }
 
 .portfolioContainer {

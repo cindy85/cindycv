@@ -45,7 +45,7 @@ body {
   margin: 0;
 }
 a {
-  background: transparent;
+  background: black;
 }
 a:focus {
   outline: thin dotted;
