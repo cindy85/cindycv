@@ -800,3 +800,16 @@ footer.entry-meta .meta-in {
     max-width: 1080px;
   }
 }
+
+.button 
+{
+float:none;
+    
+}
+
+
+.button li
+{
+list-style: none;
+    
+}
